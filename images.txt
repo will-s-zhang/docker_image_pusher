@@ -8,3 +8,4 @@ centos:8
 python:latest
 selenium/standalone-chrome:latest
 apache/seatunnel:2.3.9
+lanol/filecodebox:latest
