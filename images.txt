@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 centos:8
 python:latest
+python:3.12-slim-bookworm
 selenium/standalone-chrome:latest
 apache/seatunnel:2.3.9
 lanol/filecodebox:latest
