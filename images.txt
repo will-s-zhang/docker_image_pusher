@@ -1,1 +1,1 @@
-langflowai/langflow:latest
+playwright-mcp:latest
