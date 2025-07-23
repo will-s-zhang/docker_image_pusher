@@ -1,1 +1,3 @@
-ghcr.io/devcontainers/features/docker-in-docker:2
+seafileltd/seafile-mc:latest
+mariadb:10.5
+memcached:1.5.6
