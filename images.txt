@@ -1,1 +1,3 @@
-redis:latest
+postgres:16
+bitnamilegacy/kafka:4.0
+thingsboard/tb-node:4.2.0
