@@ -1,1 +1,1 @@
-keking/kkfileview-base:4.4.0
+ubuntu:24.04
