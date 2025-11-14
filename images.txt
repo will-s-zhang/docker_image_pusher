@@ -1,3 +1,1 @@
-postgres:16
-bitnamilegacy/kafka:4.0
-thingsboard/tb-node:4.2.0
+keking/kkfileview:4.4.0
