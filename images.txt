@@ -1,1 +1,2 @@
-ubuntu:24.04
+dataelement/bisheng-frontend:v2.2.0
+dataelement/bisheng-backend:v2.2.0
