@@ -1,1 +1,3 @@
-ghcr.io/c4illin/convertx:latest
+ccr.ccs.tencentyun.com/buildingai/redis:8.2.2
+ccr.ccs.tencentyun.com/buildingai/postgres:17.6
+ccr.ccs.tencentyun.com/buildingai/node:22.20.0
