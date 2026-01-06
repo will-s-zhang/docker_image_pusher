@@ -1,1 +1,1 @@
-drakkan/sftpgo:latest
+ghcr.io/intergalacticalvariable/reader:latest
