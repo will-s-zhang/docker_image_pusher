@@ -1,1 +1,2 @@
-python:3.10.18-bookworm
+golang:1.24-bookworm
+debian:12.12-slim
