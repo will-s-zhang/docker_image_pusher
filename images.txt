@@ -1,1 +1,1 @@
-bellsoft/liberica-openjdk-rocky:17.0.16-cds
+mrd0ll4r/arozos:latest
