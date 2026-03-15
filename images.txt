@@ -1,2 +1,2 @@
-node:24-bookworm@latest
-node:24-bookworm-slim@latest
+node:24-bookworm
+node:24-bookworm-slim
