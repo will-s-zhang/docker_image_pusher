@@ -1,1 +1,1 @@
-ubuntu:24.04
+pgvector/pgvector:pg17
