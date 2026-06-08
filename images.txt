@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+postgres:15.7
